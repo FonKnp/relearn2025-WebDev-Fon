@@ -6,6 +6,7 @@ const Pizza = (props) => {
 };
 
 const App = () => {
+  // debugger;
   return React.createElement("div", {}, [
     React.createElement("h1", {}, "Please be working!"),
     React.createElement(Pizza, {
