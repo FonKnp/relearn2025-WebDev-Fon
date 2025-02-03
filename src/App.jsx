@@ -1,5 +1,4 @@
 import { createRoot } from "react-dom";
-import Pizza from "./Pizza";
 import Order from "./Order";
 
 const App = () => {
